@@ -2,4 +2,9 @@
 import '../scss/styles.scss';
 import { sayHello } from './demo.js';
 
+import catImage from '../assets/images/cat.jpg';
+
+// const img = document.createElement('img')
+// img.src = catImage
+
 sayHello();
